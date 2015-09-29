@@ -12,5 +12,6 @@ Line Break Attempt
 
 ####List
 1. creating
-2. 1. a
-3. 1. list
+2. a
+3. list
+4. formatted
